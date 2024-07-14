@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Henry
+## Hi there, I'm Henry
 
 I am a software developer and an enthusiastic open source contributor.
 
