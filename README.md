@@ -1,4 +1,4 @@
-## Hi there, I'm Henry
+## Hi there, I'm Hieu
 
 I am a software developer and an enthusiastic open source contributor.
 
